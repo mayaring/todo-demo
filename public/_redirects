@@ -1,0 +1,2 @@
+/api/* http://todotemp.ap-northeast-2.elasticbeanstalk.com/api/:splat 200
+
